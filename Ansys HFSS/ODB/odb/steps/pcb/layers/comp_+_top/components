@@ -1,0 +1,770 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+@2 .no_pop
+@3 .comp_ignore
+@4 .comp_variant_list
+
+#
+#Component attribute text strings
+#
+
+# CMP 0
+CMP 1 10.71719218 23.05390106 0 N C4 GJM1555C1H1R7WB01D ;0=1,1=4.6200
+PRP Capacitance '1.7pF'
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Depth '0.5mm'
+PRP Dielectric 'C0G'
+PRP Height '0.5mm'
+PRP Length '1mm'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '10000'
+PRP Packaging 'Tape and Reel'
+PRP Radiation_Hardening 'No'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.022inch'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.02inch'
+TOP 0 10.33863058 23.05390106 0 N 15 2 1
+TOP 1 11.09575632 23.05390106 0 N 0 9 2
+#
+# CMP 1
+CMP 4 24.9175143 21.76375632 270 N L7 LQW15AN4N7G80D ;0=1,1=4.6200
+PRP Availability 'Unavailable'
+PRP MF ''
+PRP MP 'LQW15AN4N7G80D'
+PRP Package 'None'
+PRP Price 'None'
+PRP Value ''
+TOP 0 24.9175143 21.30375724 270 N 16 13 1
+TOP 1 24.9175143 22.2237554 270 N 0 8 2
+#
+# CMP 2
+CMP 1 29.75815486 22.2196406 90 N C7 GJM1555C1HR80WB01D ;0=1,1=4.6200
+PRP Capacitance '0.8pF'
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Depth '0.5mm'
+PRP Dielectric 'C0G'
+PRP Height '0.5mm'
+PRP Length '1mm'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '10000'
+PRP Packaging 'Tape and Reel'
+PRP Radiation_Hardening 'No'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.022inch'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.02inch'
+TOP 0 29.75815486 22.5982022 90 N 0 7 1
+TOP 1 29.75815486 21.84107646 90 N 16 12 2
+#
+# CMP 3
+CMP 1 20.0808844 21.97999922 90 N C6 GJM1555C1HR80WB01D ;0=1,1=4.6200
+PRP Capacitance '0.8pF'
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Depth '0.5mm'
+PRP Dielectric 'C0G'
+PRP Height '0.5mm'
+PRP Length '1mm'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '10000'
+PRP Packaging 'Tape and Reel'
+PRP Radiation_Hardening 'No'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.022inch'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.02inch'
+TOP 0 20.0808844 22.35856082 90 N 0 6 1
+TOP 1 20.0808844 21.60143508 90 N 16 11 2
+#
+# CMP 4
+CMP 2 32.62063326 20.91737244 90 N L9 LQG15WZ2N4B02D ;0=1,1=0.0000
+TOP 0 32.62063326 21.43991394 90 N 1 2 1
+TOP 1 32.62063326 20.39483094 90 N 10 2 2
+#
+# CMP 5
+CMP 1 32.62092282 16.651224 90 N C11 GJM1555C1HR60BB01D ;0=1,1=4.6200
+PRP Capacitance '0.6pF'
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Depth '0.5mm'
+PRP Dielectric 'C0G'
+PRP Height '0.5mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1mm'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '10000'
+PRP Packaging 'Tape and Reel'
+PRP Radiation_Hardening 'No'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.022inch'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.02inch'
+TOP 0 32.62092282 17.0297856 90 N 10 1 1
+TOP 1 32.62092282 16.27265986 90 N 16 10 2
+#
+# CMP 6
+CMP 3 32.6087867 25.1885704 90 N L4 LQW15AN5N2B80D ;0=1,1=4.6200
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Core_Material 'Ferrite'
+PRP Current_Rating '1.77A'
+PRP DC_Resistance_(DCR) '40mR'
+PRP Height '0.5mm'
+PRP Height_-_Seated_(Max) '0.024inch'
+PRP Inductance '5.2nH'
+PRP Length '0.039inch'
+PRP Max_DC_Current '1.77A'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '10000'
+PRP Packaging 'Tape and Reel'
+PRP Q_Factor '35'
+PRP Resistor_Type 'Wirewound'
+PRP Self_Resonant_Frequency '8GHz'
+PRP Shielding 'Unshielded'
+PRP Termination 'SMD/SMT'
+PRP Test_Frequency '100MHz'
+PRP Width '0.5mm'
+TOP 0 32.6087867 25.69357066 90 N 8 2 1
+TOP 1 32.6087867 24.68357014 90 N 1 1 2
+#
+# CMP 7
+CMP 5 49.92572946 27.29973712 270 N J2 CONSMA003.031-G ;0=1,1=4.6200
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/CONSMA003.031-G/Linx/view-part/?ref=eda'
+PRP MF 'Linx'
+PRP MP 'CONSMA003.031-G'
+PRP Package 'None'
+PRP Price 'None'
+PRP Purchase-URL 'https://pricing.snapeda.com/search/part/CONSMA003.031-G/?ref=eda'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CONSMA003.031-G/Linx/view-part/?ref=snap'
+PRP Value ''
+TOP 0 47.89572844 27.29973712 270 N 0 5 1
+TOP 1 47.89572844 24.75973712 270 N 0 3 S1
+TOP 2 47.89572844 29.83973712 270 N 0 4 S2
+TOP 3 47.89572844 24.75973712 270 N 16 3 S3
+TOP 4 47.89572844 29.83973712 270 N 16 4 S4
+#
+# CMP 8
+CMP 1 37.45875414 27.2780379 0 N C3 GJM1555C1HR90WB01D ;0=1,1=4.6200
+PRP Capacitance '0.9pF'
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Depth '0.5mm'
+PRP Dielectric 'C0G'
+PRP Height '0.5mm'
+PRP Length '1mm'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '10000'
+PRP Packaging 'Tape and Reel'
+PRP Radiation_Hardening 'No'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.022inch'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.02inch'
+TOP 0 37.08019254 27.2780379 0 N 8 1 1
+TOP 1 37.83731828 27.2780379 0 N 5 1 2
+#
+# CMP 9
+CMP 1 35.70544294 23.0558086 0 N C8 GJM1555C1H2R1WB01D ;0=1,1=4.6200
+PRP Capacitance '2.1pF'
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Depth '0.5mm'
+PRP Dielectric 'C0G'
+PRP Height '0.5mm'
+PRP Length '1mm'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '10000'
+PRP Packaging 'Tape and Reel'
+PRP Radiation_Hardening 'No'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.022inch'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.5mm'
+TOP 0 35.32688134 23.0558086 0 N 1 0 1
+TOP 1 36.08400708 23.0558086 0 N 16 9 2
+#
+# CMP 10
+CMP 1 39.24821462 23.06191984 0 N C9 GJM1555C1H1R7WB01D ;0=1,1=4.6200
+PRP Capacitance '1.7pF'
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Depth '0.5mm'
+PRP Dielectric 'C0G'
+PRP Height '0.5mm'
+PRP Length '1mm'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '10000'
+PRP Packaging 'Tape and Reel'
+PRP Radiation_Hardening 'No'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.022inch'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.02inch'
+TOP 0 38.86965302 23.06191984 0 N 16 8 1
+TOP 1 39.62677876 23.06191984 0 N 14 2 2
+#
+# CMP 11
+CMP 1 42.30332662 16.64489432 90 N C13 GJM1555C1HR60BB01D ;0=1,1=4.6200
+PRP Capacitance '0.6pF'
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Depth '0.5mm'
+PRP Dielectric 'C0G'
+PRP Height '0.5mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1mm'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '10000'
+PRP Packaging 'Tape and Reel'
+PRP Radiation_Hardening 'No'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.022inch'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.02inch'
+TOP 0 42.30332662 17.02345592 90 N 12 2 1
+TOP 1 42.30332662 16.26633018 90 N 16 7 2
+#
+# CMP 12
+CMP 3 42.29884606 25.18769664 90 N L5 LQW15AN5N7B80D ;0=1,1=4.6200
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Core_Material 'Ferrite'
+PRP Current_Rating '1.77A'
+PRP DC_Resistance_(DCR) '40mR'
+PRP Height '0.5mm'
+PRP Height_-_Seated_(Max) '0.024inch'
+PRP Inductance '5.7nH'
+PRP Length '0.039inch'
+PRP Max_DC_Current '1.77A'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '10000'
+PRP Packaging 'Tape and Reel'
+PRP Q_Factor '30'
+PRP Resistor_Type 'Wirewound'
+PRP Self_Resonant_Frequency '8GHz'
+PRP Shielding 'Unshielded'
+PRP Termination 'SMD/SMT'
+PRP Test_Frequency '100MHz'
+PRP Width '0.024inch'
+TOP 0 42.29884606 25.6926969 90 N 5 0 1
+TOP 1 42.29884606 24.68269638 90 N 14 1 2
+#
+# CMP 13
+CMP 2 42.30332662 20.92779152 270 N L11 LQG15WZ2N4B02D ;0=1,1=4.6200
+TOP 0 42.30332662 20.40525002 270 N 12 1 1
+TOP 1 42.30332662 21.45033302 270 N 14 0 2
+#
+# CMP 14
+CMP 0 35.78979126 18.72734888 0 N R5 FC0402E50R0BST1 ;0=1,1=4.6200
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Contact_Plating 'Copper'
+PRP Frequency '20GHz'
+PRP Height '0.015inch'
+PRP Lead_Free 'Lead Free'
+PRP Length '0.042inch'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '50mW'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Pins '2'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Power_Rating '50mW'
+PRP Radiation_Hardening 'No'
+PRP Resistance '50R'
+PRP Resistance_Tolerance '0.1%'
+PRP Resistor_Type 'Thin Film'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'FC'
+PRP Size_Code '0402'
+PRP Temperature_Coefficient '25ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '0.1%'
+PRP Voltage_Rating '30V'
+PRP Voltage_Rating_(DC) '30V'
+PRP Width '0.022inch'
+TOP 0 35.38327696 18.72734888 0 N 10 0 1
+TOP 1 36.19630556 18.72734888 0 N 16 6 2
+#
+# CMP 15
+CMP 0 39.21267494 18.72568264 0 N R6 FC0402E50R0BST1 ;0=1,1=4.6200
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Contact_Plating 'Copper'
+PRP Frequency '20GHz'
+PRP Height '0.015inch'
+PRP Lead_Free 'Lead Free'
+PRP Length '0.042inch'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '50mW'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Pins '2'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Power_Rating '50mW'
+PRP Radiation_Hardening 'No'
+PRP Resistance '50R'
+PRP Resistance_Tolerance '0.1%'
+PRP Resistor_Type 'Thin Film'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'FC'
+PRP Size_Code '0402'
+PRP Temperature_Coefficient '25ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '0.1%'
+PRP Voltage_Rating '30V'
+PRP Voltage_Rating_(DC) '30V'
+PRP Width '0.022inch'
+TOP 0 38.80616064 18.72568264 0 N 16 5 1
+TOP 1 39.61918924 18.72568264 0 N 12 0 2
+#
+# CMP 16
+CMP 2 7.62547116 20.87889144 90 N L8 LQG15WZ2N4B02D ;0=1,1=0.0000
+TOP 0 7.62547116 21.40143294 90 N 15 1 1
+TOP 1 7.62547116 20.35634994 90 N 7 2 2
+#
+# CMP 17
+CMP 2 17.32288382 20.87889144 90 N L10 LQG15WZ2N4B02D ;0=1,1=0.0000
+TOP 0 17.32288382 21.40143294 90 N 4 0 1
+TOP 1 17.32288382 20.35634994 90 N 13 0 2
+#
+# CMP 18
+CMP 5 -0.00931418 27.24982104 90 N J1 CONSMA003.031-G ;0=1,1=4.6200
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/CONSMA003.031-G/Linx/view-part/?ref=eda'
+PRP MF 'Linx'
+PRP MP 'CONSMA003.031-G'
+PRP Package 'None'
+PRP Price 'None'
+PRP Purchase-URL 'https://pricing.snapeda.com/search/part/CONSMA003.031-G/?ref=eda'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CONSMA003.031-G/Linx/view-part/?ref=snap'
+PRP Value ''
+TOP 0 2.02068684 27.24982104 90 N 0 0 1
+TOP 1 2.02068684 29.78982104 90 N 0 2 S1
+TOP 2 2.02068684 24.70982104 90 N 0 1 S2
+TOP 3 2.02068684 29.78982104 90 N 16 2 S3
+TOP 4 2.02068684 24.70982104 90 N 16 1 S4
+#
+# CMP 19
+CMP 1 12.47214422 27.25005472 0 N C1 GJM1555C1HR90WB01D ;0=1,1=4.6200
+PRP Capacitance '0.9pF'
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Depth '0.5mm'
+PRP Dielectric 'C0G'
+PRP Height '0.5mm'
+PRP Length '1mm'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '10000'
+PRP Packaging 'Tape and Reel'
+PRP Radiation_Hardening 'No'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.022inch'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.02inch'
+TOP 0 12.09358262 27.25005472 0 N 11 0 1
+TOP 1 12.85070836 27.25005472 0 N 9 2 2
+#
+# CMP 20
+CMP 1 14.26073602 23.04596864 0 N C5 GJM1555C1H2R1WB01D ;0=1,1=4.6200
+PRP Capacitance '2.1pF'
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Depth '0.5mm'
+PRP Dielectric 'C0G'
+PRP Height '0.5mm'
+PRP Length '1mm'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '10000'
+PRP Packaging 'Tape and Reel'
+PRP Radiation_Hardening 'No'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.022inch'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.5mm'
+TOP 0 13.88217442 23.04596864 0 N 16 17 1
+TOP 1 14.63930016 23.04596864 0 N 4 2 2
+#
+# CMP 21
+CMP 1 7.62882904 16.60888728 90 N C10 GJM1555C1HR60BB01D ;0=1,1=4.6200
+PRP Capacitance '0.6pF'
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Depth '0.5mm'
+PRP Dielectric 'C0G'
+PRP Height '0.5mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1mm'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '10000'
+PRP Packaging 'Tape and Reel'
+PRP Radiation_Hardening 'No'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.022inch'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.02inch'
+TOP 0 7.62882904 16.98744888 90 N 7 0 1
+TOP 1 7.62882904 16.23032314 90 N 16 14 2
+#
+# CMP 22
+CMP 1 17.3422945 16.59976868 90 N C12 GJM1555C1HR60BB01D ;0=1,1=4.6200
+PRP Capacitance '0.6pF'
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Depth '0.5mm'
+PRP Dielectric 'C0G'
+PRP Height '0.5mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1mm'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '10000'
+PRP Packaging 'Tape and Reel'
+PRP Radiation_Hardening 'No'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.022inch'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.02inch'
+TOP 0 17.3422945 16.97833028 90 N 13 2 1
+TOP 1 17.3422945 16.22120454 90 N 16 18 2
+#
+# CMP 23
+CMP 3 7.62113792 25.15327456 90 N L3 LQW15AN5N7B80D ;0=1,1=4.6200
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Core_Material 'Ferrite'
+PRP Current_Rating '1.77A'
+PRP DC_Resistance_(DCR) '40mR'
+PRP Height '0.5mm'
+PRP Height_-_Seated_(Max) '0.024inch'
+PRP Inductance '5.7nH'
+PRP Length '0.039inch'
+PRP Max_DC_Current '1.77A'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '10000'
+PRP Packaging 'Tape and Reel'
+PRP Q_Factor '30'
+PRP Resistor_Type 'Wirewound'
+PRP Self_Resonant_Frequency '8GHz'
+PRP Shielding 'Unshielded'
+PRP Termination 'SMD/SMT'
+PRP Test_Frequency '100MHz'
+PRP Width '0.024inch'
+TOP 0 7.62113792 25.65827482 90 N 11 1 1
+TOP 1 7.62113792 24.6482743 90 N 15 0 2
+#
+# CMP 24
+CMP 3 17.31855058 25.1570744 90 N L6 LQW15AN5N2B80D ;0=1,1=4.6200
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Core_Material 'Ferrite'
+PRP Current_Rating '1.77A'
+PRP DC_Resistance_(DCR) '40mR'
+PRP Height '0.5mm'
+PRP Height_-_Seated_(Max) '0.024inch'
+PRP Inductance '5.2nH'
+PRP Length '0.039inch'
+PRP Max_DC_Current '1.77A'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '10000'
+PRP Packaging 'Tape and Reel'
+PRP Q_Factor '35'
+PRP Resistor_Type 'Wirewound'
+PRP Self_Resonant_Frequency '8GHz'
+PRP Shielding 'Unshielded'
+PRP Termination 'SMD/SMT'
+PRP Test_Frequency '100MHz'
+PRP Width '0.5mm'
+TOP 0 17.31855058 25.66207466 90 N 9 3 1
+TOP 1 17.31855058 24.65207414 90 N 4 1 2
+#
+# CMP 25
+CMP 0 10.78697106 18.69739212 0 N R3 FC0402E50R0BST1 ;0=1,1=4.6200
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Contact_Plating 'Copper'
+PRP Frequency '20GHz'
+PRP Height '0.015inch'
+PRP Lead_Free 'Lead Free'
+PRP Length '0.042inch'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '50mW'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Pins '2'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Power_Rating '50mW'
+PRP Radiation_Hardening 'No'
+PRP Resistance '50R'
+PRP Resistance_Tolerance '0.1%'
+PRP Resistor_Type 'Thin Film'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'FC'
+PRP Size_Code '0402'
+PRP Temperature_Coefficient '25ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '0.1%'
+PRP Voltage_Rating '30V'
+PRP Voltage_Rating_(DC) '30V'
+PRP Width '0.022inch'
+TOP 0 10.38045676 18.69739212 0 N 7 1 1
+TOP 1 11.19348536 18.69739212 0 N 16 16 2
+#
+# CMP 26
+CMP 0 14.21073104 18.69739212 0 N R4 FC0402E50R0BST1 ;0=1,1=4.6200
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Contact_Plating 'Copper'
+PRP Frequency '20GHz'
+PRP Height '0.015inch'
+PRP Lead_Free 'Lead Free'
+PRP Length '0.042inch'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '50mW'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Pins '2'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Power_Rating '50mW'
+PRP Radiation_Hardening 'No'
+PRP Resistance '50R'
+PRP Resistance_Tolerance '0.1%'
+PRP Resistor_Type 'Thin Film'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'FC'
+PRP Size_Code '0402'
+PRP Temperature_Coefficient '25ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '0.1%'
+PRP Voltage_Rating '30V'
+PRP Voltage_Rating_(DC) '30V'
+PRP Width '0.022inch'
+TOP 0 13.80421674 18.69739212 0 N 16 15 1
+TOP 1 14.61724534 18.69739212 0 N 13 1 2
+#
+# CMP 27
+CMP 0 26.6158853 24.0634774 0 N R2 FC0402E50R0BST1 ;0=1,1=4.6200
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Contact_Plating 'Copper'
+PRP Frequency '20GHz'
+PRP Height '0.015inch'
+PRP Lead_Free 'Lead Free'
+PRP Length '0.042inch'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '50mW'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Pins '2'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Power_Rating '50mW'
+PRP Radiation_Hardening 'No'
+PRP Resistance '50R'
+PRP Resistance_Tolerance '0.1%'
+PRP Resistor_Type 'Thin Film'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'FC'
+PRP Size_Code '0402'
+PRP Temperature_Coefficient '25ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '0.1%'
+PRP Voltage_Rating '30V'
+PRP Voltage_Rating_(DC) '30V'
+PRP Width '0.022inch'
+TOP 0 26.209371 24.0634774 0 N 6 0 1
+TOP 1 27.0223996 24.0634774 0 N 2 0 2
+#
+# CMP 28
+CMP 0 23.22322762 24.0634774 0 N R1 FC0402E50R0BST1 ;0=1,1=4.6200
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Contact_Plating 'Copper'
+PRP Frequency '20GHz'
+PRP Height '0.015inch'
+PRP Lead_Free 'Lead Free'
+PRP Length '0.042inch'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '50mW'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Pins '2'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Power_Rating '50mW'
+PRP Radiation_Hardening 'No'
+PRP Resistance '50R'
+PRP Resistance_Tolerance '0.1%'
+PRP Resistor_Type 'Thin Film'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'FC'
+PRP Size_Code '0402'
+PRP Temperature_Coefficient '25ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '0.1%'
+PRP Voltage_Rating '30V'
+PRP Voltage_Rating_(DC) '30V'
+PRP Width '0.022inch'
+TOP 0 22.81671332 24.0634774 0 N 3 1 1
+TOP 1 23.62974192 24.0634774 0 N 6 1 2
+#
+# CMP 29
+CMP 3 29.75382162 25.15333552 90 N L2 LQW15AN16NG80D ;0=1,1=4.6200
+PRP Case_Code_(Imperial) '1005'
+PRP Case_Code_(Metric) '0402'
+PRP Case/Package '0402'
+PRP Core_Material 'Ferrite'
+PRP Current_Rating '1A'
+PRP DC_Resistance_(DCR) '126mR'
+PRP Height '0.5mm'
+PRP Height_-_Seated_(Max) '0.024inch'
+PRP Inductance '16nH'
+PRP Length '0.039inch'
+PRP Max_DC_Current '1A'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '10000'
+PRP Packaging 'Tape and Reel'
+PRP Q_Factor '31'
+PRP Resistor_Type 'Wirewound'
+PRP Self_Resonant_Frequency '5GHz'
+PRP Shielding 'Unshielded'
+PRP Termination 'SMD/SMT'
+PRP Test_Frequency '100MHz'
+PRP Tolerance '2%'
+PRP Width '0.024inch'
+TOP 0 29.75382162 25.65833578 90 N 8 3 1
+TOP 1 29.75382162 24.64833526 90 N 2 1 2
+#
+# CMP 30
+CMP 3 20.07655116 25.15333552 90 N L1 LQW15AN16NG80D ;0=1,1=4.6200
+PRP Case_Code_(Imperial) '1005'
+PRP Case_Code_(Metric) '0402'
+PRP Case/Package '0402'
+PRP Core_Material 'Ferrite'
+PRP Current_Rating '1A'
+PRP DC_Resistance_(DCR) '126mR'
+PRP Height '0.5mm'
+PRP Height_-_Seated_(Max) '0.024inch'
+PRP Inductance '16nH'
+PRP Length '0.039inch'
+PRP Max_DC_Current '1A'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '10000'
+PRP Packaging 'Tape and Reel'
+PRP Q_Factor '31'
+PRP Resistor_Type 'Wirewound'
+PRP Self_Resonant_Frequency '5GHz'
+PRP Shielding 'Unshielded'
+PRP Termination 'SMD/SMT'
+PRP Test_Frequency '100MHz'
+PRP Tolerance '2%'
+PRP Width '0.024inch'
+TOP 0 20.07655116 25.65833578 90 N 9 1 1
+TOP 1 20.07655116 24.64833526 90 N 3 0 2
+#
+# CMP 31
+CMP 1 24.92516986 27.26282584 0 N C2 GJM1555C1H1R1WB01D ;0=1,1=4.6200
+PRP Capacitance '1.1pF'
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Depth '0.5mm'
+PRP Dielectric 'C0G'
+PRP Height '0.5mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1mm'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '10000'
+PRP Packaging 'Tape and Reel'
+PRP Radiation_Hardening 'No'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.022inch'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.02inch'
+TOP 0 24.54660826 27.26282584 0 N 9 0 1
+TOP 1 25.303734 27.26282584 0 N 8 0 2
+#
